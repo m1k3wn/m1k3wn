@@ -1,6 +1,7 @@
 Visual Artist and Designer
 
-🌱 Currently learning Web Development at Northcoders 
+🌱 Currently studying Software Development at Northcoders 
+👯 Looking to collaborate on GAN training for image generation 
 <!--
 **m1k3wn/m1k3wn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
